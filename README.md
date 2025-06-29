@@ -1,4 +1,4 @@
-# Aero10_7000_Reworked
+# Aero10_Project_07
 
 A modified version of Aero10 7000 Reworked to compete with Project '07's msstyles by Legofan.
 
